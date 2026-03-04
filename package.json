@@ -1,0 +1,11 @@
+{
+  "name": "snyk-test-lab",
+  "version": "1.0.0",
+  "description": "Repo to test Snyk security features",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.11",
+    "express": "4.16.0",
+    "minimist": "0.0.8"
+  }
+}
