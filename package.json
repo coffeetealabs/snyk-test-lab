@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "lodash": "4.17.23",
-    "express": "4.21.1",
+    "express": "4.21.2",
     "minimist": "0.2.4"
   }
 }
