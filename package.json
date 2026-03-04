@@ -4,8 +4,8 @@
   "description": "Repo to test Snyk security features",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.17",
-    "express": "4.19.2",
+    "lodash": "4.17.20",
+    "express": "4.20.0",
     "minimist": "0.2.4"
   }
 }
