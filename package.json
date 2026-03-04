@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "Repo to test Snyk security features",
   "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
   "dependencies": {
+    "express": "5.2.1",
     "lodash": "4.17.23",
-    "express": "4.22.0",
     "minimist": "0.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
   }
 }
