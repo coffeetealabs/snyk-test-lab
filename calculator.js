@@ -1,5 +1,5 @@
-function divide(a, b) {
+function divide2(a, b) {
     return a / b;
 }
 
-module.exports = { divide };
+module.exports = { divide2 };
