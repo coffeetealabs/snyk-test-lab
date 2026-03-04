@@ -12,4 +12,4 @@ app.listen(3000, () => {
     console.log("Server running on port 3000")
 })
 
-divide2(2,0)
+divide2(3,0)
